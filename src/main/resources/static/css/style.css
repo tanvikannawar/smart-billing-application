@@ -1,0 +1,26 @@
+body {
+    background: #f5f7fb;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+table {
+    margin-bottom: 0;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2,
+h3 {
+    font-weight: 600;
+}
